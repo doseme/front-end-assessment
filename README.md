@@ -2,7 +2,7 @@
 
 ### Get Started
 
-1. Create your fork of this repository
+1. Fork or clone this repository
 
 2. Install dependencies
 
@@ -24,7 +24,7 @@ A wallet is a set of transactions, each containing the following information:
 
 - Currency
 - Amount
-- Date
+- Type (debit/credit)
 
 #### User stories
 
