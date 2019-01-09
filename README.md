@@ -38,4 +38,5 @@ A wallet is a set of transactions, each containing the following information:
 
 1. A store has been implemented using [React Context](https://reactjs.org/docs/context.html) 
 and should be used to manage transactions
-2. Existing code can be refactored if needed
+2. [reactstrap](https://reactstrap.github.io/) has been installed and can be used for this exercise
+3. Existing code can be refactored if needed
